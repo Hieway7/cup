@@ -1,0 +1,18 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;}
+div{
+    word-spacing: 120px;
+}
+.port{
+    background-color: green; border-radius: 40%;
+    color: white;
+        padding: 14px;
+
+
+}
+.tina{
+    background-color: skyblue; border-radius: 40%;
+    color: #d34545;
+    padding: 14px;
+}
